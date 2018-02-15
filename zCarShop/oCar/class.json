@@ -1,0 +1,27 @@
+{
+	"classtype": "kObjectclass",
+	"internalversion": 5,
+	"designtaskname": "Startup_Task",
+	"cvardefs": [
+
+	],
+	"ivardefs": [
+
+	],
+	"properties": {
+		"collectperformancedata": false,
+		"componenticon": 0,
+		"componenttype": "kCompStoreHidden",
+		"createdate": "2018-02-15 16:09:29",
+		"desc": "",
+		"editor": "",
+		"editordata": "",
+		"external": true,
+		"issupercomponent": false,
+		"moddate": "2018-02-15 16:41:16",
+		"selfcontained": false,
+		"showascheckedout": false,
+		"userinfo": "",
+		"version": ""
+	}
+}

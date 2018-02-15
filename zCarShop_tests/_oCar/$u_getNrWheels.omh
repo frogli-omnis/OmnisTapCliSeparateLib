@@ -1,0 +1,4 @@
+Do loCar.$getNrWheels() Returns liWheels
+
+Do ioTAP.$diag("Testing separate test library")
+Do ioTAP.$is_number(liWheels,4,con("Number of Wheels is ",liWheels))

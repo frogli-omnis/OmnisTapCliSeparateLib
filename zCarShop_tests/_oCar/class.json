@@ -1,0 +1,28 @@
+{
+	"classtype": "kObjectclass",
+	"internalversion": 9,
+	"superclass": "omnistap.ogTAPSuper",
+	"designtaskname": "Startup_Task",
+	"cvardefs": [
+
+	],
+	"ivardefs": [
+
+	],
+	"properties": {
+		"collectperformancedata": false,
+		"componenticon": 0,
+		"componenttype": "kCompStoreHidden",
+		"createdate": "2018-02-15 16:12:02",
+		"desc": "",
+		"editor": "",
+		"editordata": "",
+		"external": true,
+		"issupercomponent": false,
+		"moddate": "2018-02-15 16:42:04",
+		"selfcontained": false,
+		"showascheckedout": true,
+		"userinfo": "",
+		"version": ""
+	}
+}

@@ -1,0 +1,37 @@
+[
+	{
+		"name": "$setup",
+		"ident": 0,
+		"order": 1,
+		"pvardefs": [
+
+		],
+		"lvardefs": [
+
+		]
+	},
+	{
+		"name": "$u_getNrWheels",
+		"ident": 1,
+		"order": 2,
+		"pvardefs": [
+
+		],
+		"lvardefs": [
+			{
+				"name": "liWheels",
+				"order": 1,
+				"type": "kInteger",
+				"subtype": "k32bitint",
+				"sublen": 0
+			},
+			{
+				"name": "loCar",
+				"order": 2,
+				"type": "kObject",
+				"subtype": "zCarShop.oCar",
+				"sublen": 0
+			}
+		]
+	}
+]
